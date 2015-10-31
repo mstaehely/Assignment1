@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=OddMagicSquare(int)
+comment0.text=\r\n\ Creates\ a\ magic\ square\ given\ the\ correct\ input.\r\n\ \r\n\ @param\ n\ the\ number\ of\ rows\ and\ columns\ in\ the\ square.\ The\ 'magic\ number'\ will\ be\ equal\ to\ n(n*n\ +1)/2.\r\n\ @throws\ IllegalArgumentException\ if\ n\ is\ not\ greater\ than\ 0\ or\ is\ even.\t\ \r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ Represents\ the\ magic\ square\ as\ a\ String.\r\n\ \r\n\ @return\ the\ String\ representation\ of\ the\ object.\r\n
+comment2.params=array
+comment2.target=boolean\ isMagicSquare(int[][])
+comment2.text=\r\n\ Static\ method\ which\ checks\ a\ given\ integer\ array\ to\ see\ if\ it\ is\ a\ magic\ square.\r\n\ \r\n\ @param\ array\ a\ 2D\ integer\ array\ \r\n\ @return\ true\ if\ the\ object\ is\ a\ magic\ square.\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ Main\ method\ provides\ user\ interface\ and\ input\ validation.\r\n\ \r\n\ @param\ args\ not\ used.\r\n
+numComments=4
