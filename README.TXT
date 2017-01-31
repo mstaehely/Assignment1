@@ -1,10 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
 PROJECT TITLE: Odd Magic Square
-PURPOSE OF PROJECT: Create an odd numbered magic square
-VERSION or DATE: Winter 2015
-AUTHORS: Matthew Staehely
+PURPOSE OF PROJECT: Simple class to create an odd numbered magic square. This is a homework
+                    assignment for a freshman-level programming course, and should be viewed
+                    as such. Please do not simply copy this code for your own solution!
+AUTHOR: Matthew Staehely
+VERSION: Winter 2015
